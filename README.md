@@ -17,7 +17,7 @@ https://github.com/dev-evelin/shopping-list-cart/assets/107203586/0bf16f2e-cc4f-
 
 ## Links
 
-- Live Site URL: [https://dev-evelin-shopping-list-cart.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://dev-evelin-shopping-list-cart.netlify.app/]
 
 ## Connect with me::
 

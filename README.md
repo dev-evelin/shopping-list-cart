@@ -1,4 +1,4 @@
-# Passsword Generator  
+# Shopping List Cart  
 
 Project for Scrimba's Front-End Developer Career Path where we built a Shopping List Cart with HTML, CSS, Javascript and Firebase.
 https://www.scrimba.com
@@ -11,6 +11,8 @@ https://www.scrimba.com
 
  
 ## Preview/Video
+
+https://github.com/dev-evelin/shopping-list-cart/assets/107203586/0bf16f2e-cc4f-4295-b7e7-60834f79e99b
 
 
 ## Links
